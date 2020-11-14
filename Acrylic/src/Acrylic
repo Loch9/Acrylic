@@ -1,0 +1,9 @@
+#pragma once
+
+#include "Acrylic_src/Application.h"
+
+// ---------------- Entry Point ---------------------
+
+#include "Acrylic_src/EntryPoint.h"
+
+// --------------------------------------------------
