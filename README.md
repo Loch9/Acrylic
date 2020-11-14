@@ -1,2 +1,2 @@
 # Acrylic
-A game engine
+Acrylic Engine
