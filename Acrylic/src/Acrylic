@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Acrylic_src/Application.h"
+#include "Acrylic_src/Log.h"
 
 // ---------------- Entry Point ---------------------
 
